@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CarnetEntretien</string>
+
+    <string name="title_scan">Scan</string>
+    <string name="title_add">Ajouter</string>
+    <string name="title_view">Voir</string>
+    <string name="title_params">Parametres</string>
+
+    <string name="add_simple_eqpt_qrean">Ajouter un équipement avec code barre/qr code</string>
+    <string name="add_simple_no_eqpt_qrean">Ajouter un équipement avec code barre/qr code</string>
+    <string name="add_complex_eqpt">Ajouter un équipement avec un modèle prédéfini</string>
+
+    <string name="no_available_funct">Fonctionnalié non disponibles</string>
+
+    <string name="message_add_eqpt">Vous pouvez scanner le code barre ou le Qrcode de votre équipement</string>
+
+    <string name="lib_txt_nom_eqpt">Saisir l\'identifiant du produit :</string>
+    <string name="lib_txt_date_eqpt">Date d\'achat :</string>
+    <string name="lib_txt_desc_eqpt">Description :</string>
+
+</resources>
